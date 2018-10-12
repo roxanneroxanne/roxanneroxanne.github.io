@@ -27,6 +27,7 @@ body, h1 {
 	background-color: #F4C20D;
 	border-style: none;
 	border-radius: 25px;
+	display: inline-block;
 }
 
 .btn-primary:hover {
